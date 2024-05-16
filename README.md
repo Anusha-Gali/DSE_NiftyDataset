@@ -42,6 +42,7 @@ include 'Prev Close', 'Open', 'High', 'Low', 'Last', and 'VWAP'. Decision Tree R
 significant multicollinearity among predictors and extreme right-skewness in distributions. Model performance improves upon outlier removal, showing lower 
 error metrics. Imputation tests post-random data removal indicate stable bias, variance, and residual error. Overall, the dataset analysis focused on managing 
 missing data, feature importance, multicollinearity, outlier impacts, and model evaluation in this assignment.
+
 Notebook: Assignment1_AnushaGali_INFO6105_latest.ipynb
 
 ### Assignment 2: [Title of Assignment 2]
@@ -50,6 +51,7 @@ its features. After evaluating the models using various metrics, we found that t
 similar performance. The most significant predictor variables in the final model were 'High', 'Last', 'Low', 'VWAP'. We also found that there was no violation 
 of model assumptions, and multicollinearity was not a significant issue. Overall, in all the models returned by AutoML we observed that there was similar
 performance and the MAE was set as the deciding factor in the best model given that all the models make sense.
+
 Notebook: Assignment2_Anusha_Gali_INFO6105_Latest.ipynb
 
 ### Assignment 3: Model Interpretability
@@ -60,10 +62,12 @@ data dynamics. Both the AutoML's best model and the Random Forest model, being t
 decision-making processes. This consistency across tree-based models boosts confidence in their reliability and interpretability, aiding in informed 
 decision-making and model assessment. Overall, SHAP analysis offered crucial insights into feature relevance and model behaviors, enhancing our ability to 
 make more precise modeling decisions.
+
 Notebook: Assignment3_AnushaGali_INFO6105_Latest.ipynb
 
 ### Assignment 4: Combine Data Cleaning, Feature Selection, Modeling, and Interpretability into one report
 Description: This assignment is a combination of all the above assignments
+
 Notebook: Assignment4_AnushaGali_INFO6105.ipynb
 
 ### Assignment 5: Neural Network Type Classification | TMNIST
@@ -77,6 +81,7 @@ model. Both training and validation accuracy increase over epochs, while the los
 Overall, the CNN model demonstrates strong performance in both training and evaluation phases, achieving high accuracy and effectively generalizing to unseen 
 data. The training history plots indicate successful learning without overfitting. This suggests that the model has effectively learned meaningful patterns 
 from the data and can reliably classify images into their respective classes.
+
 Notebook: assignment05-anushagali-info6105.ipynb
 
 ## Installation
