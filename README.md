@@ -11,23 +11,37 @@ itself. The data in the dataset spans from 1st January, 2000 to 30th April, 2021
 
 ### Metadata
 Date - Trade Data: Represents the date of the trading data, indicating when the stock market activity occurred.
+
 Symbol - Name of Stock: Refers to the unique code or symbol assigned to a particular stock. It is essentially the shorthand representation of the company's 
 name on the stock exchange.
+
 Series - Type of Security: Specifies the type of security, which could include different classes of financial instruments such as equity shares, preference 
 shares, or other financial products.
+
 Prev Close - Previous Day's Closing Price: Indicates the closing price of the stock on the previous trading day.
+
 Open - Opening Price for the Day: Represents the initial price at which a stock is traded on a given day.
+
 High - Highest Price for the Day: Denotes the highest trading price reached by the stock during the trading day.
+
 Low - Lowest Price for the Day: Represents the lowest trading price reached by the stock during the trading day.
+
 Last - Last Trade Price: Refers to the price at which the last trade was executed.
+
 Close - Closing Price: Indicates the final trading price of the stock at the end of the trading day.
+
 VWAP - Volume-Weighted Average Price: VWAP is a ratio of the cumulative share price to the cumulative volume traded over a given time period. It provides 
 insight into the average price at which a stock is traded, weighted by the volume of trades.
+
 Volume - Volume Traded for the Day: Represents the total number of shares or contracts traded during a specific time period, typically a trading day.
+
 Turnover - Turnover Ratio: The turnover ratio is the ratio of sellers to buyers of a stock. It helps in understanding the market activity and liquidity.
+
 Trades - Number of Trades: Indicates the total number of trades (buy and sell transactions) that occurred during the trading day.
+
 Deliverable Volume - Amount of Deliverable Volume: Represents the volume of shares that were actually delivered (transferred) as opposed to being traded 
 intraday.
+
 % Deliverable - Percentage of Deliverable Shares: Indicates the percentage of shares that were delivered out of the total traded volume.
 
 Note: All the prices are denoted in Indian Rupees (INR), as mentioned at the end of the description. This dataset provides comprehensive information about the 
