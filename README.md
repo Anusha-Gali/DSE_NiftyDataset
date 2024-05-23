@@ -59,7 +59,7 @@ missing data, feature importance, multicollinearity, outlier impacts, and model 
 
 Notebook: Assignment1_AnushaGali_INFO6105_latest.ipynb
 
-### Assignment 2: [Title of Assignment 2]
+### Assignment 2: Auto ML
 Description: In this assignment, we perform AutoML using H2O library on the Stock dataset. We used various algorithms to predict the close price of stock on 
 its features. After evaluating the models using various metrics, we found that the H2O AutoML model with regularization and without regularization provided a 
 similar performance. The most significant predictor variables in the final model were 'High', 'Last', 'Low', 'VWAP'. We also found that there was no violation 
